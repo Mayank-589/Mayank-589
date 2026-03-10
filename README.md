@@ -62,20 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayank-589&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-589&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mayank-589&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📈 What I'm Currently Working On
 
 - 🌐 Building Web Development skills — HTML, CSS & JavaScript
