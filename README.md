@@ -77,6 +77,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayank%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-yadav-82a6a6211)
 [![GitHub](https://img.shields.io/badge/GitHub-Mayank--589-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayank-589)
+[![Email](https://img.shields.io/badge/Email-mayankyadavj589%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankyadavj589@gmail.com)
 
 </div>
 
