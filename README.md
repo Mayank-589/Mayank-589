@@ -43,7 +43,6 @@
 ![Trophy](https://github-trophies.vercel.app/?username=Mayank-589&theme=tokyonight&no-frame=true)
 
 </div>
----
 
 ## 🚀 Featured Projects
 
