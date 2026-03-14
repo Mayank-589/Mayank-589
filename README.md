@@ -40,7 +40,7 @@
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Mayank-589&theme=tokyonight&no-frame=true&row=1&column=6)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Mayank-589&theme=tokyonight&no-frame=true&margin-w=15)
 
 </div>
 ---
