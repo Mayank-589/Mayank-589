@@ -1,10 +1,8 @@
 # Hi there, I'm Mayank Yadav! 👋
 
 <div align="center">
-  <!-- Animated Waving Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=0077B5&height=120&section=header&text=Mayank%20Yadav&fontSize=40&animation=fadeIn&fontColor=ffffff" alt="Header Animation" width="100%"/>
   
-  <!-- Enhanced Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=2nd+Year+Data+Science+Student;Python+%7C+Pandas+%7C+NumPy+%7C+EDA;Turning+Data+into+Actionable+Insights;Aspiring+Machine+Learning+Engineer;Currently+Mastering+Web+Development+%F0%9F%9A%80" alt="Typing Animation"/>
 </div>
 
@@ -39,7 +37,6 @@
 </div>
 
 <div align="center">
-  <!-- Dynamic GitHub Trophies -->
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mayank-589&theme=tokyonight&no-frame=true&margin-w=15)
 </div>
 
@@ -51,47 +48,40 @@
 > A data-driven deep dive into IPL cricket across multiple seasons
 
 - 📊 Analyzed match trends, team dominance, and toss influence using **Python & Pandas**
-- 🎨 Built stunning visualizations with **Matplotlib & Seaborn** to highlight venue and season-level patterns
-- 📄 Produced a detailed PDF report summarizing all findings
-- 🛠️ **Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
+- 🎨 Built stunning visualizations with **Matplotlib & Seaborn**
+- 📄 Produced a detailed PDF report
+- 🛠️ **Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter
 
 ### 📉 [Telecom Customer Churn — EDA](https://github.com/Mayank-589/Telecom_Churn)
-> Uncovering why 7,000+ telecom customers leave — and what businesses can do about it
+> Uncovering why 7,000+ telecom customers leave
 
 - 🔍 Identified **month-to-month contracts** and **electronic check payments** as top churn drivers
-- 📈 Performed univariate & bivariate analysis across 20+ customer features
-- 💡 Generated actionable business recommendations to improve customer retention
-- 🛠️ **Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
+- 📈 Performed univariate & bivariate analysis across 20+ features
+- 💡 Generated actionable business recommendations
+- 🛠️ **Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter
 
 ---
 
 ## 📈 What I'm Currently Working On
 
-- 🌐 Building strong **Web Development** skills — HTML, CSS & JavaScript
+- 🌐 Building **Web Development** skills — HTML, CSS & JavaScript
 - 📚 Exploring **Machine Learning** fundamentals
 - 🔨 Planning my next impactful data science project
-- 🟢 Keeping my GitHub contribution graph as **green** as possible!
+- 🟢 Keeping my GitHub contribution graph **green**!
 
 ---
 
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mayank-yadav-82a6a6211">
-    <img src="https://img.shields.io/badge/LinkedIn-Mayank%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Mayank-589">
-    <img src="https://img.shields.io/badge/GitHub-Mayank--589-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:mayankyadavj589@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mayankyadavj589%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://www.linkedin.com/in/mayank-yadav-82a6a6211"><img src="https://img.shields.io/badge/LinkedIn-Mayank%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Mayank-589"><img src="https://img.shields.io/badge/GitHub-Mayank--589-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:mayankyadavj589@gmail.com"><img src="https://img.shields.io/badge/Email-mayankyadavj589%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ---
 
 <div align="center">
-  <!-- Visitor Counter -->
   ![Profile Views](https://komarev.com/ghpvc/?username=Mayank-589&color=00D4FF&style=flat&label=Profile+Views)
 
   ⭐ **If you like my projects, please consider starring them!** ⭐
@@ -99,12 +89,12 @@
   *"Data is the new oil — I'm here to refine it."* 🛢️➡️💡
 </div>
 
-<!-- Cool Contribution Snake Animation (updates automatically) -->
+<!-- Contribution Snake -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mayank-589/Mayank-589/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mayank-589/Mayank-589/blob/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://github.com/Mayank-589/Mayank-589/blob/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mayank-589/Mayank-589/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mayank-589/Mayank-589/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mayank-589/Mayank-589/output/github-snake.svg" width="100%"/>
   </picture>
 </div>
 
